@@ -1,0 +1,12 @@
+{
+  "llm": {
+    "enabled": true,
+    "label": "ikun_gpt-5.4",
+    "provider": "IkunCoding",
+    "base_url": "https://api.ikuncode.cc/v1",
+    "api_key_env": "IKUNCODE_API_KEY",
+    "model": "gpt-5.4",
+    "model_reasoning_effort": "xhigh",
+    "timeout_seconds": 180
+  }
+}

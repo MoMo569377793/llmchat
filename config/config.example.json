@@ -1,0 +1,10 @@
+{
+  "llm": {
+    "enabled": true,
+    "label": "your-model",
+    "provider": "openai_compatible",
+    "base_url": "https://api.example.com/v1",
+    "api_key_env": "YOUR_API_KEY",
+    "model": "your-model-name"
+  }
+}
